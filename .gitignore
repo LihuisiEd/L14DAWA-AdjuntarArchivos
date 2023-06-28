@@ -1,0 +1,32 @@
+# Dependencias instaladas con npm
+/node_modules
+
+# Archivos y directorios generados por el entorno de desarrollo
+/.pnp
+/.pnp.js
+/.cache
+/.env
+
+# Archivos de compilación y construcción
+/build
+/dist
+
+# Archivos de registro
+/logs
+*.log
+
+# Archivos de respaldo
+*.bak
+*.swp
+
+# Archivos de configuración local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Otros archivos y directorios específicos del proyecto
+.idea
+.vscode
+.DS_Store
+Thumbs.db
